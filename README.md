@@ -3,6 +3,8 @@
 <!--
 **HiSeungmin/HiSeungmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![header](https://capsule-render.vercel.app/api?type=waving&text=HiSeungmin&height=300&fontSize=70&color=gradient&section=header&animation=fadeIn&fontColor=fffafa)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
