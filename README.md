@@ -2,7 +2,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=HiSeungmin&height=300&fontSize=70&color=gradient&section=header&animation=fadeIn&fontColor=fffafa)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome! Seungmin's space~&height=300&fontSize=70&color=gradient&section=header&animation=fadeIn&fontColor=fffafa)
 
 Here are some ideas to get you started:
 
