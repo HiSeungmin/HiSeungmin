@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=osmin80)](https://solved.ac/osmin80)  
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=osmin8080)](https://solved.ac/osmin80)  
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/HiSeungmin/TODO-List)
 [![REACT](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/HiSeungmin/TODO-List)
