@@ -14,6 +14,8 @@ Java와 Spring Boot를 중심으로 웹 서비스를 개발하고 있으며,
 기술 블로그 작성, 알고리즘 문제 풀이, 사이드 프로젝트를 통해 역량을 키워가고 있습니다.  
 꾸준히 성장하며 사용자에게 가치를 전달할 수 있는 개발자가 되는 것이 목표입니다.
 
+
+
 ### 🛠️ Tech Stack & Tools
 ##### **Languages**
 
@@ -55,7 +57,5 @@ Java와 Spring Boot를 중심으로 웹 서비스를 개발하고 있으며,
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=osmin80)](https://solved.ac/osmin80)  
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiSeungmin&layout=compact)](https://github.com/HiSeungmin/github-readme-stats)
 
 [![HiSeungmin's github stats](https://github-readme-stats.vercel.app/api?username=HiSeungmin&theme=outrun&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
