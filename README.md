@@ -15,6 +15,7 @@ Java와 Spring Boot를 중심으로 웹 서비스를 개발하고 있으며,
 꾸준히 성장하며 사용자에게 가치를 전달할 수 있는 개발자가 되는 것이 목표입니다.
 
 
+<br>
 
 ### 🛠️ Tech Stack & Tools
 
@@ -27,9 +28,12 @@ Java와 Spring Boot를 중심으로 웹 서비스를 개발하고 있으며,
 | **Others**    | <img alt="" src="https://img.shields.io/badge/Git-F05032?style=flat-round&logo=git&logoColor=ffffff"> <img alt="" src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=github&logoColor=ffffff"> <img alt="" src="https://img.shields.io/badge/Nginx-009639?style=flat-round&logo=nginx&logoColor=ffffff"> |
 
 
+<br>
+
 <div align="center">
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=osmin80)](https://solved.ac/osmin80)
 [![HiSeungmin's github stats](https://github-readme-stats.vercel.app/api?username=HiSeungmin&theme=outrun&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=osmin80)](https://solved.ac/osmin80)
 
 </div>
