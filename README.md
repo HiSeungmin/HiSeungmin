@@ -44,7 +44,6 @@ Java와 Spring Boot를 중심으로 웹 서비스를 개발하고 있으며,
   <img alt="" src="https://img.shields.io/badge/Docker-blue?style=flat-round&logo=docker&logoColor=43bde5">
   <img alt="" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-round&logo=jenkins&logoColor=ffffff">
   <img alt="" src="https://img.shields.io/badge/AWS-009688?style=flat-round&logo=amazon&logoColor=ffffff">
-  <img alt="" src="https://img.shields.io/badge/GCP-4285F4?style=flat-round&logo=googlecloud&logoColor=ffffff">
 </p>
 
 ##### **Others**
