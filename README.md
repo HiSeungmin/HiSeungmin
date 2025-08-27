@@ -33,7 +33,6 @@ Java와 Spring Boot를 중심으로 웹 서비스를 개발하고 있으며,
 <div align="center">
 
 [![HiSeungmin's github stats](https://github-readme-stats.vercel.app/api?username=HiSeungmin&theme=outrun&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=osmin80)](https://solved.ac/osmin80)
 
 </div>
