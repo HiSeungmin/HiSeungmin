@@ -30,8 +30,5 @@ Java와 Spring Boot를 중심으로 웹 서비스를 개발하고 있으며,
 
 <br>
 
-<div align="center">
-
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=osmin80)](https://solved.ac/osmin80)
 
-</div>
