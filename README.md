@@ -14,7 +14,7 @@ Java와 Spring Boot를 중심으로 웹 서비스를 개발하고 있으며,
 기술 블로그 작성, 알고리즘 문제 풀이, 사이드 프로젝트를 통해 역량을 키워가고 있습니다.  
 꾸준히 성장하며 사용자에게 가치를 전달할 수 있는 개발자가 되는 것이 목표입니다.
 
-🔗 [Makify 서비스 보러가기](https://makiify.life)
+🔗 [Makify 서비스 보러가기](https://www.makiify.life)
 🔗 [테트리스 한 판!](https://hiseungmin.github.io/Tetris/)
 
 <br>
