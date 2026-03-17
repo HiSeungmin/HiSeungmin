@@ -1,42 +1,117 @@
-### Hi there 👋
+<div align="center">
 
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Welcome%20to%20SeungMin's%20World%20&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=38&desc=Backend%20Developer&descAlign=50&descAlignY=58&animation=fadeIn" width="100%"/>
 
+<br/>
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=SeungMin's_World!&height=300&fontSize=70&color=gradient&section=header&animation=fadeIn&fontColor=fffafa)
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C9EFF&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Developer+%E2%98%95;Building+Makify+Challenge+Platform+%F0%9F%8F%86;Interested+in+Scalable+Architecture+%F0%9F%94%A7;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
-### 👋 About Me
+<br/>
+<br/>
 
-안녕하세요, 백엔드 개발자 오승민입니다.  
-Java와 Spring Boot를 중심으로 웹 서비스를 개발하고 있으며,  
-확장성과 유지보수성을 고려한 시스템 설계에 관심이 많습니다.  
+<!-- Contact Badges -->
+[![Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://xladmt.tistory.com)
+[![Makify](https://img.shields.io/badge/Makify_🏆-6C63FF?style=for-the-badge)](https://www.makiify.life)
+[![Gmail](https://img.shields.io/badge/osminosmin7180@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osmin80@gmail.com)
 
-현재는 챌린지 기반 웹 애플리케이션을 개발 중이며,  
-기술 블로그 작성, 알고리즘 문제 풀이, 사이드 프로젝트를 통해 역량을 키워가고 있습니다.  
-꾸준히 성장하며 사용자에게 가치를 전달할 수 있는 개발자가 되는 것이 목표입니다.
+</div>
 
-🔗 [Makify 서비스 보러가기](https://www.makiify.life)
-🔗 [테트리스 한 판!](https://hiseungmin.github.io/Tetris/)
+<br/>
 
-<br>
+---
 
-### 🛠️ Tech Stack & Tools
+## 👋 About Me
 
-| **Category**  | **Tech Stack** |
-|---------------|----------------|
-| **Languages** | <img alt="" src="https://img.shields.io/badge/Java-b4bdc0?style=flat-round&logo=coffeescript&logoColor=white"> <img alt="" src="https://img.shields.io/badge/Python-3776AB?style=flat-round&logo=python&logoColor=43bde5"> <img alt="" src="https://img.shields.io/badge/Javascript-yellow?style=flat-round&logo=javascript&logoColor=black"> |
-| **Framework** | <img alt="" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-round&logo=spring&logoColor=ffffff"> <img alt="" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-round&logo=springboot&logoColor=ffffff"> |
-| **Databases** | <img alt="" src="https://img.shields.io/badge/Mysql-4479A1?style=flat-round&logo=MySQL&logoColor=ffffff"> |
-| **DevOps**    | <img alt="" src="https://img.shields.io/badge/Docker-blue?style=flat-round&logo=docker&logoColor=43bde5"> <img alt="" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-round&logo=jenkins&logoColor=ffffff"> <img alt="" src="https://img.shields.io/badge/AWS-009688?style=flat-round&logo=amazon&logoColor=ffffff"> |
-| **Others**    | <img alt="" src="https://img.shields.io/badge/Git-F05032?style=flat-round&logo=git&logoColor=ffffff"> <img alt="" src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=github&logoColor=ffffff"> <img alt="" src="https://img.shields.io/badge/Nginx-009639?style=flat-round&logo=nginx&logoColor=ffffff"> |
+> 머릿속 아이디어가 서비스가 되는 전 과정을 즐기는 백엔드 개발자입니다
 
+- 🔭 현재 **Makify** (챌린지 참여 플랫폼) 를 개발 중입니다
+- 🌱 비동기 처리 시스템, 인덱싱 최적화 등 성능을 고려한 설계에 관심이 많습니다
+- ✍️ 기술 블로그에 구현 경험을 공유하는 것을 즐깁니다
+- 🎯 다양한 이해관계자와 소통하고 협업하여 동일한 목표를 달성하는 것을 좋아합니다
 
-<br>
+<br/>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=osmin80)](https://solved.ac/osmin80)
+---
 
-<br>
+## 🛠️ Tech Stack
 
 <div align="center">
-    <img alt="Visitor Stats" 
-        src="https://widgetbite.com/stats/<github-username>"/>  
+
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Database & Cache
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Infra
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 Projects
+
+<div align="center">
+    
+| 프로젝트명 | 설명 | 기간 | 링크 |
+| ---------- | ---- | ---- | ---- |
+| 🏆 [Makify](https://www.makiify.life) | 챌린지 웹 서비스 | 25.06 ~ 진행중 | [GitHub](https://github.com/HiSeungmin/makify) |
+| 📑 [Devlens](https://www.devlens.work/) | 프로젝트 관리 웹 플랫폼  | 24.12 ~ 25.02 | [GitHub](https://github.com/HiSeungmin/KDEV3_DevLens_BE) |
+| 🔊 [포포먼스](https://chzzmarket.store/) | TTS&VC 오디오 제작 웹 플랫폼 | 24.10 ~ 24.12 | [GitHub](https://github.com/HiSeungmin/TTS_VC_web_Project) |
+
+<br/>
+
+---
+
+## ✍️ Latest Blog Posts
+
+<div align="center">
+    
+<!-- BLOG-POST-LIST:START -->
+| # | 제목 |
+|---|------|
+| 1 | [🔍 검색어 자동완성 시스템 개발기 (feat. Java, Spring, 트라이 자료구조)](https://xladmt.tistory.com/entry/%EA%B2%80%EC%83%89%EC%96%B4-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EB%B0%9C%EA%B8%B0feat-Java-Spring-%ED%8A%B8%EB%9D%BC%EC%9D%B4-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0) |
+| 2 | [💳 결제 서비스에 Facade 패턴 적용하기](https://xladmt.tistory.com/entry/%EA%B2%B0%EC%A0%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0) |
+| 3 | [🔑 Refresh Token을 Redis에 저장하는 이유](https://xladmt.tistory.com/entry/Spring-boot-Refresh-Token%EC%9D%84-Redis%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0) |
+| 4 | [🔄 Spring Boot - Filter와 Interceptor](https://xladmt.tistory.com/entry/Spring-boot-filter%EC%99%80-interceptor) |
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiSeungmin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<a href="https://solved.ac/osmin80"><img height="180em" src="http://mazassumnida.wtf/api/generate_badge?boj=osmin80"/></a>
+ 
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&section=footer" width="100%"/>
+
 </div>
