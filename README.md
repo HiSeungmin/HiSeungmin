@@ -73,8 +73,8 @@
 | 프로젝트명 | 설명 | 기간 | 링크 |
 | ---------- | ---- | ---- | ---- |
 | 🏆 [Makify](https://www.makiify.life) | 챌린지 웹 서비스 | 25.06 ~ 진행중 | [GitHub](https://github.com/HiSeungmin/makify) |
-| 📑 [Devlens](https://www.devlens.work/) | 프로젝트 관리 웹 플랫폼  | 24.12 ~ 25.02 | [GitHub](https://github.com/HiSeungmin/KDEV3_DevLens_BE) |
-| 🔊 [포포먼스](https://chzzmarket.store/) | TTS&VC 오디오 제작 웹 플랫폼 | 24.10 ~ 24.12 | [GitHub](https://github.com/HiSeungmin/TTS_VC_web_Project) |
+| 📑 [Devlens](https://www.devlens.work) | 프로젝트 관리 웹 플랫폼  | 24.12 ~ 25.02 | [GitHub](https://github.com/HiSeungmin/KDEV3_DevLens_BE) |
+| 🔊 [포포먼스](https://www.popomance.kr) | TTS&VC 오디오 제작 웹 플랫폼 | 24.10 ~ 24.12 | [GitHub](https://github.com/HiSeungmin/TTS_VC_web_Project) |
 
 <br/>
 
