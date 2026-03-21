@@ -87,10 +87,11 @@
 <!-- BLOG-POST-LIST:START -->
 | # | 제목 |
 |---|------|
-| 1 | [🔍 검색어 자동완성 시스템 개발기 (feat. Java, Spring, 트라이 자료구조)](https://xladmt.tistory.com/entry/%EA%B2%80%EC%83%89%EC%96%B4-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EB%B0%9C%EA%B8%B0feat-Java-Spring-%ED%8A%B8%EB%9D%BC%EC%9D%B4-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0) |
-| 2 | [💳 결제 서비스에 Facade 패턴 적용하기](https://xladmt.tistory.com/entry/%EA%B2%B0%EC%A0%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0) |
-| 3 | [🔑 Refresh Token을 Redis에 저장하는 이유](https://xladmt.tistory.com/entry/Spring-boot-Refresh-Token%EC%9D%84-Redis%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0) |
-| 4 | [🔄 Spring Boot - Filter와 Interceptor](https://xladmt.tistory.com/entry/Spring-boot-filter%EC%99%80-interceptor) |
+| 1 | [🔍 검색어 자동완성 시스템 개발기 (feat. Java, Spring, 트라이 자료구조)](https://lill.ing/blog6lm) |
+| 2 | [💳 결제 서비스에 Facade 패턴 적용하기](https://lill.ing/blog2ls) |
+| 3 | [🔑 Refresh Token을 Redis에 저장하는 이유](https://lill.ing/blogqFx) |
+| 4 | [🔄 Spring Boot - Filter와 Interceptor](https://lill.ing/blogDNr) |
+| 5 | [🛠️ HikariCP Thread starvation 문제 해결 과정](https://lill.ing/blogO3O) |
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
